@@ -12,8 +12,5 @@ For contact use: kaiopedrodesouza55@gmail.com
 ##
 
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/kaiopedro1/" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/KaioPedro1/KaioPedro1/blob/output/github-contribution-grid-snake.svg)
- 
+  <a href="https://www.linkedin.com/in/kaiopedro1/" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank"></a>  
 </div>
