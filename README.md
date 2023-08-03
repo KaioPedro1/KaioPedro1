@@ -1,6 +1,6 @@
 # **Welcome to my GitHub**
 ## My name is Gabriel Rizzi, i'm studying Information Systems at UTFPR in PR-BR!
-For contact use: gabrielrizzi333@gmail.com or follow me on Instagram: @gabrielrizzi113
+For contact use: kaiopedrodesouza55@gmail.com
 
 <div align="center">
   
