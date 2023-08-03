@@ -1,5 +1,5 @@
 # **Welcome to my GitHub**
-## My name is Gabriel Rizzi, i'm studying Information Systems at UTFPR in PR-BR!
+## My name is Kaio Pedro de Souza, i'm studying Information Systems at UTFPR in PR-BR!
 For contact use: kaiopedrodesouza55@gmail.com
 
 <div align="center">
@@ -12,9 +12,8 @@ For contact use: kaiopedrodesouza55@gmail.com
 ##
 
 <div align="center"> 
-  <a href="https://instagram.com/gabrielrizzi113" target="_blank"><img height="30" src="https://blog.vizcaya.com.br/wp-content/uploads/2017/02/instagram-Logo-PNG-Transparent-Background-download.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabrielrizzi113/" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/kaiopedro1/" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Rizzi-dev/Rizzi-dev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/KaioPedro1/KaioPedro1/blob/output/github-contribution-grid-snake.svg)
  
 </div>
